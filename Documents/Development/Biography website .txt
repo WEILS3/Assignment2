@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> Steven Weil Bio </title>
+
+</head>
+
+<body>
+<p> This is my biography website. My name is Steven Weil and I am a
+freshment at NKU. I am majoring in Computer Science and my hobbies
+ include sports, poker, and video games. </p>
+
+</body>
+
+<img>
+
+</html>
